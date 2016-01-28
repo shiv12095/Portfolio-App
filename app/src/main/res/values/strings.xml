@@ -8,5 +8,6 @@
     <string name="build_it">BUILD IT BIGGER</string>
     <string name="reader">XYZ READER</string>
     <string name="capstone">CAPSTONE: MY OWN APP</string>
+    <string name="toast_common_text">This button will launch the </string>
 
 </resources>
